@@ -26,10 +26,26 @@ In summary, the main difference between ETL and ELT testing lies in the timing a
 
 ## ERROR HANDLING TESTING
 
+  * Evaluate error detection and logging mechanisms.
+  * Test error recovery and rollback procedures.
+  * Verify error messages and notifications.
+
 ## PERFORMANCE AND SCALABILITY TESTING
 
+  * Measure data loading and transformation speeds.
+  * Assess system performance under varying data volumes.
+  * Test scalability of ETL/ELT processes.
+
 ## REGRESSION TESTING AFTER CHANGES OR UPDATES
+
+  * Conduct regression testing to ensure existing functionality remains intact.
+  * Validate data consistency and integrity post-updates.
+  * Test backward compatibility with existing data and systems.
 
 ## TOOLS 
 
 ## ENVRONMENTS
+
+  * Establish testing environments that mirror production setups.
+  * Ensure availability of test data sets for different scenarios.
+  * Consider cloud-based environments for scalability and flexibility.
