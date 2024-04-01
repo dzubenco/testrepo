@@ -18,8 +18,6 @@ Documentation Analysis:
    * Identify potential gaps, ambiguities, or inconsistencies in documentation that may impact testing.
    * Update or enhance documentation as needed to reflect changes, requirements, or insights from testing efforts.
 
-## DATA MIGRATION TESTING
-
 ## ETL VS ELT TESTING
 
 In summary, the main difference between ETL and ELT testing lies in the timing and location of data transformation: ETL testing focuses on validating transformations before data loading, while ELT testing focuses on validating transformations after data loading. Both approaches are essential for ensuring the accuracy, reliability, and integrity of data integration processes.
@@ -37,8 +35,10 @@ In summary, the main difference between ETL and ELT testing lies in the timing a
   * Test scalability of ETL/ELT processes.
 
 ## REGRESSION TESTING AFTER CHANGES OR UPDATES
+Regression testing is conducted when there's a need to ensure that  existing functionality remains intact.
+Main points here are:
 
-  * Conduct regression testing to ensure existing functionality remains intact.
+  * Create and maintain a regression tests library (usually it is based on functional tests for previously implemented functionalitis + additions that can cover basics)
   * Validate data consistency and integrity post-updates.
   * Test backward compatibility with existing data and systems.
 
