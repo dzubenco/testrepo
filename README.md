@@ -1,6 +1,6 @@
 # HOW ALLIED TESTS DATA
 
-Data testing ensures the accuracy, reliability, and integrity of data. It validates correctness, completeness, consistency, and timeliness. Data testing is rucial for informed decision-making and regulatory compliance. Well tested data is a key for business intelligence, analytics, and reporting.
+Data testing ensures the accuracy, reliability, and integrity of data. It validates correctness, completeness, consistency, and timeliness. Data testing is crucial for informed decision-making and regulatory compliance. Well tested data is a key for business intelligence, analytics, and reporting.
 
 ## REQUIREMENT/DOCUMENTATION ANALYSIS
 
